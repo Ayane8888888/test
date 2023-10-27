@@ -1,3 +1,5 @@
 git config --global init.defaultBranch main
 git config --global user.name hachi
 git config --global user.email 148927545+hachi8888888@users.noreply.github.com
+#ゴールまでの道筋のイメージができておらず、誤った方向に調査を進めがちで難航がちです。
+git push -u origin master
