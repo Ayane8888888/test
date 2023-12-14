@@ -3,13 +3,13 @@
 ##  アプリケーションの起動確認
 
 ## 調べた事
-1. ![AP起動確認](AP起動確認.png)
+1. ![AP起動確認](1.png)
 2. APサーバーの名　Puma >rails s　実行時に確認
 3. APサーバーのバージョン　5.6.5　
-4. ![APサーバー終了時の挙動](APサーバー停止時の挙動.png)
+4. ![APサーバー終了時の挙動](4.png)
 5. DBサーバー名　MySQL　＞MySQL　サインイン時に確認
 6. DBサーバーバージョン　8.0.35 for Linux on x86_64 (MySQL Community Server - GPL)
-7. ![DBサーバー終了時の挙動](DBサーバー終了時の挙動.png)
+7. ![DBサーバー終了時の挙動](7.png)
 
 8. Railsの構成管理ツール名 bundler 2.3.14　＞bin/setup　実行時に確認
 
